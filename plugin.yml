@@ -1,0 +1,7 @@
+name: AuthServer
+main: me.space.authserver.main.Main
+version: 0.1
+author: Space
+commands:
+    login:
+    registrar:
